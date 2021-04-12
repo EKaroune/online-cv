@@ -57,87 +57,42 @@ career-profile:
       Second paragraph if required.
 education:
     - degree: PGCE in Secondary Science Education 
+      university: Kingston University
+      time: 2006 - 2007
+      details: |
+    - degree: PhD in Archaeobotany. 
       university: Institute of Archaeology, University College London
-      time: 2011 - 2012
+      time: 2002 - 2006
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: PhD in 
+        Thesis title – Early Agricultural communities in Northern and Eastern India. 
+    - degree: MSc in Palaeoecology of Human Societies
       university: Institute of Archaeology, University College London
-      time: 2011 - 2012
+      time: 2001 - 2002
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: MSc in 
-      university: Institute of Archaeology, University College London
-      time: 2011 - 2012
+        Thesis title - Investigating Neolithic agriculture using phytolith analysis on two Asian sites (Yiluo River Valley, Henan Province, China and Mahagara, Uttar Pradesh, India). Distinction and winner of the W F Grimes prize for outstanding performance.
+Supported by an AHRC studentship grant.
+    - degree: BSc in BioArchaeology
+      university: University of Bradford
+      time: 1997 - 2001
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        First class honours including an industrial placement year in which I gained a Diploma of Professional Archaeological studies. 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Research Associate and Community Manager of DECOVID project
+      time: 2021 - Present
+      company: The Alan Turing Institute, London
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        I am responsible for co-ordinating the different teams of data analysts and clinicians working on the project. I ensure communication is effective throughout the project by maintain the Github repositories, using different communication channels to pass on information and ensuring efficient workflow streams. I am also contributing to The Turing Way by writing new chapters concerning scientific communication such as how to write collaborative academic papers and how to deal with authorship on collaborative projects. 
+    - role: Independent Postdoctoral Researcher
+      time: 2019 - present
+      company: 
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        Open archaeobotanical research specialising in phytolith analysis. I am currently working on two projects: i) an open project concerning the application of phytolith analysis on British Archaeological sites including investigations into the methodologies used in phytolith analysis to build more robust and reproducible methods; ii) the development of open science practices in phytolith research. The later project has focused initially on assessing the extent of open science in this field and starting to build an open research community (see my project page: https://osf.io/qp68n/). Moving forward, I am collaborating, with my newly formed working group, to expand and consolidate this community, and we have applied for a European Open Science Cloud Digital Life Science Grant to fund a FAIRification project, in which I will be the Principal Investigator. 
+    - role: SEN Science Teacher
+      time: 2018 - 2020
+      company: The Harbour Medical School
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Planning and teaching science lessons for pupils aged 11 to 16 with special educational needs - currently online teaching. This involves co-ordinating parents, teaching staff and other stakeholders to make significant progress with my pupils with complex emotional, mental and health conditions. 
+
 projects:
     title: Projects
     intro: >
