@@ -13,29 +13,24 @@ sidebar:
 
     # Sidebar links
     email: ekaroune@googlemail.com
-    phone: 
-    website: https://ekaroune.github.io/The-Open-Archaeobotanist/ #do not add http://
-    linkedin: 
-    xing: 
+    #phone: 
+    website: ekaroune.github.io/The-Open-Archaeobotanist/ #do not add http://
+    #linkedin: 
+    #xing: 
     github: EKaroune
     telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
+    #gitlab:
+    #bitbucket:
     twitter: '@ekaroune'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    #codewars:
+    #goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: English
         level: Native
 
-      - idiom: 
-        level: 
-
-      - idiom: 
-        level: 
-
+      
     interests:
       - item: Cooking
         link:
@@ -43,18 +38,14 @@ sidebar:
       - item: Walking
         link:
 
-      - item: 
-        link:
+      
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Research Associate and Community Manager of DECOVID project, The Alan Turing Institute.
+      Independent archaeobotanist focused on FAIR data in phytolith research and reference collections for the British flora.           Active member of The Turing Way community.
+      
 education:
     - degree: PGCE in Secondary Science Education 
       university: Kingston University
@@ -64,61 +55,74 @@ education:
       university: Institute of Archaeology, University College London
       time: 2002 - 2006
       details: |
-        Thesis title – Early Agricultural communities in Northern and Eastern India. 
+        <b>Thesis title:<b> Early Agricultural communities in Northern and Eastern India. 
     - degree: MSc in Palaeoecology of Human Societies
       university: Institute of Archaeology, University College London
       time: 2001 - 2002
       details: |
-        Thesis title - Investigating Neolithic agriculture using phytolith analysis on two Asian sites (Yiluo River Valley, Henan Province, China and Mahagara, Uttar Pradesh, India). Distinction and winner of the W F Grimes prize for outstanding performance.
-Supported by an AHRC studentship grant.
     - degree: BSc in BioArchaeology
       university: University of Bradford
       time: 1997 - 2001
       details: |
-        First class honours including an industrial placement year in which I gained a Diploma of Professional Archaeological studies. 
+        First class honours including an industrial placement year in which I gained a Diploma of Professional Archaeological             studies. 
+
 experiences:
     - role: Research Associate and Community Manager of DECOVID project
       time: 2021 - Present
       company: The Alan Turing Institute, London
       details: |
-        I am responsible for co-ordinating the different teams of data analysts and clinicians working on the project. I ensure communication is effective throughout the project by maintain the Github repositories, using different communication channels to pass on information and ensuring efficient workflow streams. I am also contributing to The Turing Way by writing new chapters concerning scientific communication such as how to write collaborative academic papers and how to deal with authorship on collaborative projects. 
+        I am responsible for co-ordinating the different teams of data analysts and clinicians working on the project. I ensure           communication is effective throughout the project by maintain the Github repositories, using different communication             channels to pass on information and ensuring efficient workflow streams. I am also contributing to The Turing Way by             writing new chapters concerning scientific communication such as how to write collaborative academic papers and how to           deal with authorship on collaborative projects. 
     - role: Independent Postdoctoral Researcher
       time: 2019 - present
       company: 
       details: |
-        Open archaeobotanical research specialising in phytolith analysis. I am currently working on two projects: i) an open project concerning the application of phytolith analysis on British Archaeological sites including investigations into the methodologies used in phytolith analysis to build more robust and reproducible methods; ii) the development of open science practices in phytolith research. The later project has focused initially on assessing the extent of open science in this field and starting to build an open research community (see my project page: https://osf.io/qp68n/). Moving forward, I am collaborating, with my newly formed working group, to expand and consolidate this community, and we have applied for a European Open Science Cloud Digital Life Science Grant to fund a FAIRification project, in which I will be the Principal Investigator. 
+        Open archaeobotanical research specialising in phytolith analysis. I am currently working on two projects: i) an open             project concerning the application of phytolith analysis on British Archaeological sites including investigations into           the methodologies used in phytolith analysis to build more robust and reproducible methods; ii) the development of open           science practices in phytolith research. The later project has focused initially on assessing the extent of open science         in this field and starting to build an open research community (see my project page: https://osf.io/qp68n/). Moving               forward, I am collaborating, with my newly formed working group, to expand and consolidate this community, and we have           applied for a European Open Science Cloud Digital Life Science Grant to fund a FAIRification project, in which I will be         the Principal Investigator. 
     - role: SEN Science Teacher
       time: 2018 - 2020
       company: The Harbour Medical School
       details: |
-        Planning and teaching science lessons for pupils aged 11 to 16 with special educational needs - currently online teaching. This involves co-ordinating parents, teaching staff and other stakeholders to make significant progress with my pupils with complex emotional, mental and health conditions. 
+        Planning and teaching science lessons for pupils aged 11 to 16 with special educational needs - currently online                 teaching. This involves co-ordinating parents, teaching staff and other stakeholders to make significant progress with my         pupils with complex emotional, mental and health conditions. 
 
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      I am a project lead on the following projects.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Open Research in Phytolith Research
+        link: "https://ekaroune.github.io/Open-Science-in-Phytolith-Research/"
+        details: |
+            A project to assess open science practices in phytolith research and to raise awareness of the issues found.
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: British Phytoliths
+        link: "https://osf.io/a3evd/"
+        details: | 
+            A project to established a comprehensive phytolith reference collection for British plant communities.
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: FAIRer phytoliths
+        link: "https://github.com/open-phytoliths/FAIRer_phytoliths"
+        details: |
+            A project to evaluate existing data in terms of the FAIR data principles and establish guidelines for best practice               in future data sharing.
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+professional-activities:
+    - role: Fellow
+      time: 2021 - ongoing
+      company: 
+      details: |
+      
+    - role: Mentor
+      time: 2021-ongoing
+      company: <a href="https://openlifesci.org">Open Life Science</a>
+      details: |
+        Mentor on the OLS3 program.
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+events:
+    title: Events, Talks and Workshops
+    intro: |
+    
+    talk:
+        - title:
+          link:
+          conference:
 
 publications:
     title: Publications
@@ -142,27 +146,8 @@ publications:
         authors: Edgar T. Irons
         conference: "Comm. ACM 4 (1961), 51–55"
 
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+       
+ 
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
