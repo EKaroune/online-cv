@@ -128,7 +128,7 @@ events:
 publications:
     title: Publications
     intro: |
-      Here are my most recent publications. Please see my ORCID for more publications.
+      Here are my most recent publications. Please see <a href="https://orcid.org/0000-0002-6576-6053">My ORCID</a> for more publications.
     papers:
       - title: Assessing open science practices in phytolith research
         link: "https://osf.io/fa7q3/"
