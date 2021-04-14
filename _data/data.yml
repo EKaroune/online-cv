@@ -44,7 +44,8 @@ career-profile:
     title: Career Profile
     summary: |
       Research Associate and Community Manager of DECOVID project, The Alan Turing Institute.
-      Independent archaeobotanist focused on FAIR data in phytolith research and reference collections for the British flora.           Active member of The Turing Way community.
+      Independent archaeobotanist focused on FAIR data in phytolith research and reference collections for the British flora.           
+      Active member of The Turing Way community.
       
 education:
     - degree: PGCE in Secondary Science Education 
@@ -64,24 +65,24 @@ education:
       university: University of Bradford
       time: 1997 - 2001
       details: |
-        First class honours including an industrial placement year in which I gained a Diploma of Professional Archaeological             studies. 
+        First class honours including an industrial placement year in which I gained a Diploma of Professional Archaeological studies. 
 
 experiences:
     - role: Research Associate and Community Manager of DECOVID project
       time: 2021 - Present
       company: The Alan Turing Institute, London
       details: |
-        I am responsible for co-ordinating the different teams of data analysts and clinicians working on the project. I ensure           communication is effective throughout the project by maintain the Github repositories, using different communication             channels to pass on information and ensuring efficient workflow streams. I am also contributing to The Turing Way by             writing new chapters concerning scientific communication such as how to write collaborative academic papers and how to           deal with authorship on collaborative projects. 
+        I am responsible for co-ordinating the different teams of data analysts and clinicians working on the project. I ensure communication is effective throughout the         project by maintain the Github repositories, using different communication channels to pass on information and ensuring efficient workflow streams. I am also             contributing to The Turing Way by writing new chapters concerning scientific communication such as how to write collaborative academic papers and how to deal             with authorship on collaborative projects. 
     - role: Independent Postdoctoral Researcher
       time: 2019 - present
       company: 
       details: |
-        Open archaeobotanical research specialising in phytolith analysis. I am currently working on two projects: i) an open             project concerning the application of phytolith analysis on British Archaeological sites including investigations into           the methodologies used in phytolith analysis to build more robust and reproducible methods; ii) the development of open           science practices in phytolith research. The later project has focused initially on assessing the extent of open science         in this field and starting to build an open research community (see my project page: https://osf.io/qp68n/). Moving               forward, I am collaborating, with my newly formed working group, to expand and consolidate this community, and we have           applied for a European Open Science Cloud Digital Life Science Grant to fund a FAIRification project, in which I will be         the Principal Investigator. 
+        Open archaeobotanical research specialising in phytolith analysis. I am currently working on two projects: i) an open project concerning the application of               phytolith analysis on British Archaeological sites including investigations into the methodologies used in phytolith analysis to build more robust and                   reproducible methods; ii) the development of open science practices in phytolith research. The later project has focused initially on assessing the extent of             open science in this field and starting to build an open research community (see my project page: https://osf.io/qp68n/). Moving forward, I am collaborating,             with my newly formed working group, to expand and consolidate this community, and we have applied for a European Open Science Cloud Digital Life Science Grant to         fund a FAIRification project, in which I will be the Principal Investigator. 
     - role: SEN Science Teacher
       time: 2018 - 2020
       company: The Harbour Medical School
       details: |
-        Planning and teaching science lessons for pupils aged 11 to 16 with special educational needs - currently online                 teaching. This involves co-ordinating parents, teaching staff and other stakeholders to make significant progress with my         pupils with complex emotional, mental and health conditions. 
+        Planning and teaching science lessons for pupils aged 11 to 16 with special educational needs - currently online teaching. This involves co-ordinating parents,           teaching staff and other stakeholders to make significant progress with my pupils with complex emotional, mental and health conditions. 
 
 projects:
     title: Projects
@@ -127,24 +128,22 @@ events:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      
     papers:
-      - title: The Art of Computer Programming
+      - title: 
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: 
+        conference: 
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: 
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        authors: 
+        conference: 
 
-      - title: A syntax directed compiler for Algol 60
+      - title: 
         link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        authors: 
+        conference: 
 
        
  
