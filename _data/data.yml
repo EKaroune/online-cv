@@ -43,7 +43,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Research Associate and Community Manager of DECOVID project, The Alan Turing Institute.
+      Research Associate and Community Manager of the DECOVID project, The Alan Turing Institute.
       Independent archaeobotanist focused on FAIR data in phytolith research and reference collections for the British flora.           
       Active member of The Turing Way community.
       
@@ -68,11 +68,11 @@ education:
         First class honours including an industrial placement year in which I gained a Diploma of Professional Archaeological studies. 
 
 experiences:
-    - role: Research Associate and Community Manager of DECOVID project
+    - role: Research Associate and Community Manager
       time: 2021 - Present
       company: The Alan Turing Institute, London
       details: |
-        I am responsible for co-ordinating the different teams of data analysts and clinicians working on the project. I ensure communication is effective throughout the         project by maintain the Github repositories, using different communication channels to pass on information and ensuring efficient workflow streams. I am also             contributing to The Turing Way by writing new chapters concerning scientific communication such as how to write collaborative academic papers and how to deal             with authorship on collaborative projects. 
+        I am responsible for co-ordinating the different teams of data analysts and clinicians working on the DECOVID project. I ensure communication is effective throughout the         project by maintain the Github repositories, using different communication channels to pass on information and ensuring efficient workflow streams. I am also             contributing to The Turing Way by writing new chapters concerning scientific communication such as how to write collaborative academic papers and how to deal             with authorship on collaborative projects. 
     - role: Independent Postdoctoral Researcher
       time: 2019 - present
       company: 
