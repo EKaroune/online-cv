@@ -128,25 +128,25 @@ events:
 publications:
     title: Publications
     intro: |
-      
+      Here are my most recent publications. Please see my ORCID for more publications.
     papers:
-      - title: 
-        link: "#"
-        authors: 
+      - title: Assessing open science practices in phytolith research
+        link: "https://osf.io/fa7q3/"
+        authors: Karoune, E.
         conference: 
 
-      - title: 
-        link: "#"
-        authors: 
+      - title: Data from assessing open science practices in phytolith research.
+        link: "http://doi.org/10.5334/joad.67"
+        authors: Karoune, E
         conference: 
 
-      - title: 
-        link: "#"
-        authors: 
+      - title: Archaeobotanical investigations into Golbai Sasan and Gopalpur, Two Neolithic-Chalcolithic Settlements of Odisha.
+        link: "http://doi.org/10.5334/aa.164"
+        authors: Kingwell-Banham, E., E. Karoune (nee Harvey), R. K. Mohanty and D.Q. Fuller
         conference: 
 
        
  
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    This CV is available with clickable links at <a href="https://https://ekaroune.github.io/online-cv/">https://https://ekaroune.github.io/online-cv/</a>
